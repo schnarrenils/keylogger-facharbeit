@@ -1,0 +1,3 @@
+com\schnarre\keylogger\listener\KeyListener.class
+com\schnarre\keylogger\KeyLogger.class
+com\schnarre\keylogger\telegram\TelegramManager.class
